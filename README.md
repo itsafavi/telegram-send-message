@@ -1,2 +1,2 @@
 # telegram-send-message
-It's Free! But consider a donate, I need that.
+It's Free! But consider a donatation, I need that... lol
